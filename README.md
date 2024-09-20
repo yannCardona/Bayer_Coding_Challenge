@@ -26,8 +26,8 @@ Follow the steps below to set up and run the app on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/breast-cancer-dashboard.git
-cd breast-cancer-dashboard
+git clone https://github.com/yannCardona/Bayer_Coding_Challenge.git
+cd Bayer_Coding_Challenge
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
